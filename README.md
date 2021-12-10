@@ -4,7 +4,7 @@
 
 - [Rules](rules.md)
 - [Log - click here to see my progress](log.md)
-- [Projects I do](Projects)
+- [Vision & Journal](journal.md)
 - [FAQ](FAQ.md)
 - [Resources](resources.md)
 
