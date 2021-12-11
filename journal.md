@@ -38,5 +38,5 @@ Communities I will be a part of:
 ***
 ## Journal
 
-### Day 1: December 10, 2021
-Friday
+### Day 1: December 12, 2021
+Sunday
