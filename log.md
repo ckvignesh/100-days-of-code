@@ -6,17 +6,21 @@
 
 | **Day** |     **Topics**      |
 | :-----: | :-----------------: |
-|    1    | [.........](#day-1) |
-|    2    | [.........](#day-2) |
-|    3    | [.........](#day-3) |
+|    0    |   [Day 0](#day-0)   |
+|    1    | [.........](#day-2) |
+|    2    | [.........](#day-3) |
 
 ---
 
-### Day 1: January 5th, 2022 {#day-1}
+### Day 0: January 5th, 2022 {#day-0}
 
 Wednesday
 
 **Today's Progress:**
+
+Set up my machine after formatting.
+
+Went through Day 1 of 30 Days of React.
 
 **Link to work:**
 
