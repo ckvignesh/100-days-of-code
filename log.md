@@ -187,7 +187,48 @@ Spent the rest of the time working on my React Project and reading up more on ho
 
 ### Day 11: January 22nd, 2022 {#day-11}
 
-day
+Saturday
+
+**Today's Progress:**
+Still working on my React project.
+Invested time reading the Introduction & Values chapter in Eloquent JavaScript.
+
+**Link to work:**
+[Tweet](https://twitter.com/vigneshCodes/status/1485092263462334466?s=20&t=Icg6sVERotZG_3IfBwAWcw)
+
+---
+
+### Day 12: January 23rd, 2022 {#day-12}
+
+Sunday
+
+**Today's Progress:**
+Back to basics.
+Working on React after a long gap & my Javascript fundamentals need to be revised.
+
+**Link to work:**
+[Tweet](https://twitter.com/vigneshCodes/status/1485833915130871809?s=20&t=Icg6sVERotZG_3IfBwAWcw)
+
+---
+
+### Day 13: January 24th, 2022 {#day-13}
+
+Monday
+
+**Today's Progress:**
+Finally, I maxed the stats on the @LearnToCodeRPG.
+I had faced some errors and had to pause this. I could resume it today after I downloaded the latest build.
+Done with Step #1 (Max out your stats in Learn To Code RPG) & Step #2 (Start #100DaysOfCode).
+Started with the Git course of the @freeCodeCamp Relational Database Curriculum.
+
+**Link to work:**
+[Tweet](https://twitter.com/vigneshCodes/status/1486399427183263744?s=20&t=Icg6sVERotZG_3IfBwAWcw)
+
+---
+
+### Day 14: January 25th, 2022 {#day-14}
+
+Tuesday
 
 **Today's Progress:**
 
@@ -196,9 +237,75 @@ day
 
 ---
 
-### Day 00: January 00th, 2022 {#day-00th}
+### Day 15: January 26th, 2022 {#day-15}
 
-\_day
+Wednesday
+
+**Today's Progress:**
+
+**Link to work:**
+[Tweet]()
+
+---
+
+### Day 16: January 27th, 2022 {#day-16}
+
+Thursday
+
+**Today's Progress:**
+
+**Link to work:**
+[Tweet]()
+
+---
+
+### Day 17: January 28th, 2022 {#day-17}
+
+Friday
+
+**Today's Progress:**
+
+**Link to work:**
+[Tweet]()
+
+---
+
+### Day 18: January 29th, 2022 {#day-18}
+
+Saturday
+
+**Today's Progress:**
+
+**Link to work:**
+[Tweet]()
+
+---
+
+### Day 19: January 30th, 2022 {#day-19}
+
+Sunday
+
+**Today's Progress:**
+
+**Link to work:**
+[Tweet]()
+
+---
+
+### Day 20: January 31st, 2022 {#day-20}
+
+Monday
+
+**Today's Progress:**
+
+**Link to work:**
+[Tweet]()
+
+---
+
+### Day 14: January 25th, 2022 {#day-14}
+
+Tuesday
 
 **Today's Progress:**
 
