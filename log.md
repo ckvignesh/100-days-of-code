@@ -226,6 +226,7 @@ Started with the Git course of the @freeCodeCamp Relational Database Curriculum.
 
 ---
 
+<!--
 ### Day 14: January 25th, 2022 {#day-14}
 
 Tuesday
@@ -312,4 +313,4 @@ Tuesday
 **Link to work:**
 [Tweet]()
 
----
+--- -->
